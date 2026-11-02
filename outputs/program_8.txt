@@ -1,0 +1,19 @@
+============================================================
+MEDICAL DISEASE DIAGNOSIS
+============================================================
+
+Enter Symptoms (1 = Yes, 0 = No)
+Fever: Cough: Fatigue: Headache: 
+============================================================
+DIAGNOSIS RESULTS
+============================================================
+Decision Tree Prediction: Flu
+Naive Bayes Prediction: Flu
+
+Selected Symptoms
+ - Fever
+ - Cough
+ - Fatigue
+ - Headache
+
+Experiment Completed Successfully

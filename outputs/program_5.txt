@@ -1,0 +1,23 @@
+HIDDEN MARKOV MODEL - MEDICAL DIAGNOSIS
+======================================================================
+Hidden States: ['Mild Infection', 'Severe Infection']
+Observations: ['Fever', 'Cough', 'Fatigue']
+
+Initial Probabilities
+[0.5 0.5]
+
+Transition Probability Matrix
+[[0.7 0.3]
+ [0.4 0.6]]
+
+Emission Probability Matrix
+[[0.6 0.3 0.1]
+ [0.1 0.4 0.5]]
+
+
+======================================================================
+RESULT
+======================================================================
+Observation Sequence: ['Fever', 'Cough', 'Fatigue']
+Likelihood of Observation Sequence: 0.0315
+Experiment Completed Successfully

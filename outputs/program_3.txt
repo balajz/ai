@@ -1,0 +1,31 @@
+======================================================================
+ DECISION NETWORK - MEDICAL DIAGNOSIS SUPPORT SYSTEM 
+======================================================================
+
+Disease Probabilities
+
+Flu                  : 0.6
+Common Cold          : 0.25
+No disease           : 0.15
+
+
+======================================================================
+EXPECTED UTILITY OF EACH DECISION
+======================================================================
+            Decision  Expected Utility
+0      Flu Diagnosis            8050.0
+1  Healthy Diagnosis            7175.0
+
+======================================================================
+OPTIMAL DECISION
+======================================================================
+Best Decision : Flu Diagnosis
+Maximum Expected Utility : 8050.0
+
+======================================================================
+Decision Analysis
+======================================================================
+Flu Diagnosis        --> 8050.00
+Healthy Diagnosis    --> 7175.00
+
+Experiment Completed Successfully
